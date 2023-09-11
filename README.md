@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Tonybsilva-dev/boilerplate-apps-router">
+  <a href="https://github.com/Atelie-Do-Antonio/boilerplate-apps-router">
     <img src="https://i.imgur.com/gRQHNZc.png" alt="Logo">
   </a>
 
@@ -28,9 +28,9 @@
     <a href="https://tonybsilvadev.gitbook.io/the-coffee-class/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://app.the-coffee-class.com.br/">View Demo</a>
+    <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/Tonybsilva-dev/boilerplate-apps-router/issues">Report Bug / Feature</a>
+    <a href="https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/issues">Report Bug / Feature</a>
   </p>
 </p>
 
@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Tonybsilva-dev/boilerplate-apps-router.git
+   git clone https://github.com/Atelie-Do-Antonio/boilerplate-apps-router.git
    ```
 
 2. Install NPM packages
@@ -90,26 +90,26 @@ To learn more about Next.js, take a look at the following resources:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Tonybsilva-dev/boilerplate-apps-router/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 ## Author
 
  <table>
   <tr>
-    <td align="center"><a href="https://github.com/Tonybsilva-dev"><img src="https://avatars.githubusercontent.com/u/54373473?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Silva</b></sub></a><br /><a href="https://github.com/Tonybsilva-dev/boilerplate-apps-router/commits?author=Tonybsilva-dev" title="Documentation">📖</a> <a href="https://github.com/Tonybsilva-dev/boilerplate-apps-router/pulls?q=is%3Apr+reviewed-by%3ATonybsilva-dev" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Tonybsilva-dev"><img src="https://avatars.githubusercontent.com/u/54373473?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Silva</b></sub></a><br /><a href="https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/commits?author=Tonybsilva-dev" title="Documentation">📖</a> <a href="https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/pulls?q=is%3Apr+reviewed-by%3ATonybsilva-dev" title="Reviewed Pull Requests">👀</a></td>
  </tr>
 </table>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Tonybsilva-dev/boilerplate-apps-router.svg?style=for-the-badge
-[contributors-url]: https://github.com/Tonybsilva-dev/boilerplate-apps-router/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Tonybsilva-dev/boilerplate-apps-router.svg?style=for-the-badge
-[forks-url]: https://github.com/Tonybsilva-dev/boilerplate-apps-router/network/members
-[stars-shield]: https://img.shields.io/github/stars/Tonybsilva-dev/boilerplate-apps-router.svg?style=for-the-badge
-[stars-url]: https://github.com/Tonybsilva-dev/boilerplate-apps-router/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Tonybsilva-dev/boilerplate-apps-router.svg?style=for-the-badge
-[issues-url]: https://github.com/Tonybsilva-dev/boilerplate-apps-router/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Atelie-Do-Antonio/boilerplate-apps-router.svg?style=for-the-badge
+[contributors-url]: https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Atelie-Do-Antonio/boilerplate-apps-router.svg?style=for-the-badge
+[forks-url]: https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/network/members
+[stars-shield]: https://img.shields.io/github/stars/Atelie-Do-Antonio/boilerplate-apps-router.svg?style=for-the-badge
+[stars-url]: https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Atelie-Do-Antonio/boilerplate-apps-router.svg?style=for-the-badge
+[issues-url]: https://github.com/Atelie-Do-Antonio/boilerplate-apps-router/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tony-silva/
